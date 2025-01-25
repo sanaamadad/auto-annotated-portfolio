@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg.jpg
+  url: /images/about.jpg
   altText: Project image
 ---
 
