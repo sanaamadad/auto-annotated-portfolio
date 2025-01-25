@@ -42,6 +42,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: "With a strong foundation in mathematics and a master’s degree in Data Science and Big Data, I am passionate about research and innovation at the intersection of data science and artificial intelligence.\U0001F30D My international experience has shaped me, fostering open-mindedness, adaptability, and a creative approach to solving complex problems.\U0001F469‍\U0001F3EB As a teacher at heart and a researcher in spirit, I view teaching as a noble calling and data science as a tool to transform ideas into impactful solutions.\U0001F4C8 Goal: contribute to ambitious research and development projects in data science and machine learning while leveraging my dual academic expertise and passion for knowledge sharing.\U0001F4E9 Ready to innovate together? Let’s connect!\n"
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
