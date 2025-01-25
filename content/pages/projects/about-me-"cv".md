@@ -6,7 +6,7 @@ client: Awesome client
 description: Studies and Job history
 featuredImage:
   type: ImageBlock
-  url: /images/WhatsApp Image 2025-01-22 at 11.35.25_394dd23a.jpg
+  url: /images/661f89a1ddd730e71bd0aa0d_shutterstock_357107174.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
