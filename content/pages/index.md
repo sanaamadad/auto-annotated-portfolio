@@ -81,7 +81,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: ''
-    title: AA
+    title: 'Learning '
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
