@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Connecting-Math-and-Machine-Learning.jpg
-  altText: Project thumbnail image
+  altText: Machine learning projects
 media:
   type: ImageBlock
   url: /images/bg3.jpg
