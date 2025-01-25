@@ -2,7 +2,7 @@
 type: PostLayout
 title: "6eme\U0001F5C2️"
 colors: colors-b
-date: '2024-02-01'
+date: '2024-03-01'
 author: content/data/team/doris-soto.json
 excerpt: ''
 featuredImage:
