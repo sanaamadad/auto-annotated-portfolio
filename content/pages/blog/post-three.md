@@ -1,11 +1,10 @@
 ---
 type: PostLayout
-title: Composable - the future of web
+title: "6eme\U0001F5C2️"
 colors: colors-b
-date: '2024-01-01'
+date: '2025-03-01'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
@@ -52,7 +51,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock

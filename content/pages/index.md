@@ -12,14 +12,9 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    backgroundSize: inset
+    title: Sanaa MADAD
+    subtitle: "My porfolio is about: Mathematics, Data Science, and Machine Learning\U0001F393                                                                       "
     styles:
       self:
         height: auto
@@ -46,7 +41,23 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: 'Contact me '
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    text: "With a strong foundation in mathematics and a master’s degree in Data Science and Big Data, I am passionate about research and innovation at the intersection of data science and artificial intelligence.\U0001F30D My international experience has shaped me, fostering open-mindedness, adaptability, and a creative approach to solving complex problems.\U0001F469‍\U0001F3EB As a teacher at heart and a researcher in spirit, I view teaching as a noble calling and data science as a tool to transform ideas into impactful solutions.\U0001F4C8 Goal: contribute to ambitious research and development projects in data science and machine learning while leveraging my dual academic expertise and passion for knowledge sharing.\U0001F4E9 Ready to innovate together? Let’s connect!\n"
+    media:
+      type: ImageBlock
+      url: /images/WhatsApp Image 2025-01-22 at 11.35.25_394dd23a.jpg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -63,6 +74,7 @@ sections:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/about-me-"cv".md
     styles:
       self:
         height: auto
@@ -84,12 +96,13 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: 'Maths for school, AI projetcs & About me'
+    title: 'Learning '
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: ''
     showFeaturedImage: false
     actions:
       - type: Link
@@ -127,10 +140,11 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Maths
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Got an interesting project or opportunity? Tell me more...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
