@@ -7,7 +7,7 @@ client: Awesome client
 description: 'From zéro to Héro with codage , python and robotic learning'
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/modeles-mathematiques-intelligence-artificielle.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
