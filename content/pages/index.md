@@ -101,7 +101,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Maths
+    subtitle: 4eme
     showFeaturedImage: false
     actions:
       - type: Link
