@@ -9,7 +9,7 @@ description: >-
   high school .
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/math.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
