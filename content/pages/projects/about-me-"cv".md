@@ -6,7 +6,7 @@ client: Awesome client
 description: Studies and Job history
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/WhatsApp Image 2025-01-22 at 11.35.25_394dd23a.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
