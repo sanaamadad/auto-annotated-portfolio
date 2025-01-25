@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: Maths learning for school
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
