@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Sanaa MADAD
     subtitle: "My porfolio is about: Mathematics, Data Science, and Machine Learning\U0001F393                                                                       "
     styles:
