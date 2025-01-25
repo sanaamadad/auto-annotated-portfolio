@@ -77,12 +77,13 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "0032-465-187799",
-            "phoneAltText": "My phone number",
-            "email": "sanaa.smap@gmail.com",
-            "emailAltText": "My email",
-            "address": "Bruxelles-Woluwé",
-            "addressAltText": "My address"
+            "phoneNumber": "850-123-5021",
+            "phoneAltText": "Phone",
+            "email": "john@doe.com",
+            "emailAltText": "Email",
+            "address": "312 Lovely Street, NY",
+            "addressAltText": "Address",
+            "elementId": ""
         },
         "copyrightText": "",
         "styles": {
