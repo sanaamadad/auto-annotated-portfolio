@@ -139,6 +139,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Maths
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
