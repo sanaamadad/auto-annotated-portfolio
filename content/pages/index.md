@@ -80,7 +80,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: 'learning maths, projetcs AI , about me'
     title: AA
   - type: FeaturedPostsSection
     elementId: ''
