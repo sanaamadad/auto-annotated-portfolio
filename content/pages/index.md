@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: 'Contact me '
         altText: ''
         url: /
         showIcon: false
