@@ -18,7 +18,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/WhatsApp Image 2025-01-22 at 11.35.25_394dd23a.jpg
       altText: Hero image
     styles:
       self:
