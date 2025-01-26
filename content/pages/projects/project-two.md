@@ -7,7 +7,6 @@ client: welcome to my potfolio
 description: Decision tree and regression project
 featuredImage:
   type: ImageBlock
-  url: /images/math.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
