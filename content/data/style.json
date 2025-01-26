@@ -34,7 +34,7 @@
     },
     "h4": {
         "size": "2xl",
-        "weight": "medium",
+        "weight": "normal",
         "decoration": "none",
         "case": "lowercase",
         "letterSpacing": "normal"
