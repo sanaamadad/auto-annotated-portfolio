@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ''
+title: Solar panel detection in Brussels
 colors: colors-a
 date: '2022-01-22'
 client: Welcome to my second and the most intersting project
