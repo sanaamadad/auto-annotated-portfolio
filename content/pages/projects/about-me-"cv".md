@@ -3,7 +3,7 @@ type: ProjectLayout
 title: netflix project
 date: '2025-01-25'
 client: Welcome to my first project
-description: regression methode
+description: regression methods
 addTitleSuffix: true
 colors: colors-b
 backgroundImage:
