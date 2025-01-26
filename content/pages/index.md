@@ -96,7 +96,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: AI projetc
+    subtitle: Machine learning projects
     title: 'AI Learning '
   - type: FeaturedPostsSection
     elementId: ''
