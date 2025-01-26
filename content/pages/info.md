@@ -4,7 +4,6 @@ title: About  me
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/featured-Image3.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
