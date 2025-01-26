@@ -1,7 +1,7 @@
 ---
 type: PostFeedLayout
 title: Maths learning for school
-colors: colors-a
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
