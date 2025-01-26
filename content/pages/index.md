@@ -211,4 +211,5 @@ sections:
 metaTitle: Sanaa Madad Portfolio
 metaDescription: let's connect
 addTitleSuffix: true
+socialImage: /images/Connecting-Math-and-Machine-Learning.jpg
 ---
