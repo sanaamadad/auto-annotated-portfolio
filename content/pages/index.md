@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-a
+colors: colors-d
 backgroundImage:
   type: BackgroundImage
   url: /images/661f89a1ddd730e71bd0aa0d_shutterstock_357107174.jpg
