@@ -249,8 +249,9 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      [sanaamaths.ai@gmail.com@mail.me](mailto:sanaamaths.ai@gmail.com)
+    text: |+
+      sanaamaths.ai\@gmail.com
+
   - type: DividerSection
     styles:
       self:
