@@ -209,4 +209,5 @@ sections:
       text:
         textAlign: left
 metaTitle: Sanaa Madad Portfolio
+metaDescription: let's connect
 ---
