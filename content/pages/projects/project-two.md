@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Taxi in US
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: welcome to my potfolio
 description: Decision tree and regression project
 featuredImage:
   type: ImageBlock
