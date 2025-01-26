@@ -77,7 +77,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/1553684736.png
+        url: /images/En-tete-6.png
         altText: Logo five
         caption: Logo five
     spacing: 3
