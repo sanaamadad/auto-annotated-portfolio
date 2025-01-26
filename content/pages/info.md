@@ -209,7 +209,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Aws machine learning
+        label: AWS machine learning
       - type: Label
         label: React
       - type: Label
