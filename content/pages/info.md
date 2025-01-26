@@ -223,7 +223,7 @@ sections:
       - type: Label
         label: C/C++
       - type: Label
-        label: Swift
+        label: Python/R
   - type: DividerSection
     styles:
       self:
