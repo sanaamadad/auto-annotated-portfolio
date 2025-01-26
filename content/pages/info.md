@@ -211,7 +211,7 @@ sections:
       - type: Label
         label: AWS machine learning
       - type: Label
-        label: React
+        label: Machine learning algirthms
       - type: Label
         label: Microsoft Office
       - type: Label
