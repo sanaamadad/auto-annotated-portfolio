@@ -11,7 +11,7 @@ featuredImage:
   altText: Machine learning projects
 media:
   type: ImageBlock
-  url: /images/Connecting-Math-and-Machine-Learning.jpg
+  url: /images/thumbnail1626956329224.png
   altText: Project image
 ---
 here is the code " to be continue"
