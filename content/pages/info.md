@@ -224,6 +224,9 @@ sections:
         label: C/C++
       - type: Label
         label: Python/R
+      - type: Label
+        label: Google Colab
+        url: ''
   - type: DividerSection
     styles:
       self:
