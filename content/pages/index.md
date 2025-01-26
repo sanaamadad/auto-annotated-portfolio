@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/661f89a1ddd730e71bd0aa0d_shutterstock_357107174.jpg
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: repeat-x
+  backgroundRepeat: no-repeat
   opacity: 60
 sections:
   - elementId: ''
