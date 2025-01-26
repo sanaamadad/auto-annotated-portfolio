@@ -221,7 +221,7 @@ sections:
       - type: Label
         label: Jupyter Netbook
       - type: Label
-        label: C++
+        label: C/C++
       - type: Label
         label: Swift
   - type: DividerSection
