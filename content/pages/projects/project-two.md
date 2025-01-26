@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Taxi in US
+title: Comparing Taxis campanies in US
 colors: colors-a
 date: '2021-12-20'
 client: welcome to my potfolio
