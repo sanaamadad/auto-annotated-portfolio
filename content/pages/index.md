@@ -97,7 +97,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: AI projetc
-    title: 'Learning '
+    title: 'AI Learning '
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
