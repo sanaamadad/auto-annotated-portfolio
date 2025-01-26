@@ -339,7 +339,25 @@ sections:
       - type: FeaturedItem
         title: 'International education & Conferences '
         subtitle: ''
-        text: ''
+        text: |+
+          **2019-2020**
+
+          *   Spécialized master in data science and big data
+
+          **2014-2016**
+
+          *   Master in algerbaic topology and application on robotics
+
+          **2010-2014**
+
+          *   Bachelor in Applied mathématics and informatics sciences (SMIA)
+
+          **2010**
+
+          *   Baccalaureat 2010 : Mathématics sciences A in Morocco (SMA)
+
+
+
         elementId: ''
         styles:
           self:
