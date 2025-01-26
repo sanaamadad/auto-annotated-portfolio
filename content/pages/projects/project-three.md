@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Detection of solar panel from aerial image and adress identification
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: Welcome to my second and the most intersting project
 description: 'You''ll find here resum and code  of my project '
 featuredImage:
   type: ImageBlock
