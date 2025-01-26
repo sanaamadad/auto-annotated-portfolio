@@ -15,7 +15,8 @@ backgroundImage:
   opacity: 100
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: >-
+    /images/netflix-decouvrez-les-nouveautes-de-la-semaine-y-compris-la-tant-attendue-suite-dun-immense-succes-750x410.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
