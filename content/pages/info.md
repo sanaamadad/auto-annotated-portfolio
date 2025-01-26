@@ -73,7 +73,7 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/images.jpeg
+        url: /images/unnamed.png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
