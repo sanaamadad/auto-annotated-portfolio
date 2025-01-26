@@ -213,7 +213,7 @@ sections:
       - type: Label
         label: Machine learning algorithms
       - type: Label
-        label: Microsoft Office
+        label: 'QGIS '
       - type: Label
         label: Next.js
       - type: Label
