@@ -209,7 +209,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: AWS machine learning
+        label: AWS Machine learning
       - type: Label
         label: Machine learning algorithms
       - type: Label
