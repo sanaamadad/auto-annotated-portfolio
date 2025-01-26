@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Comparing Taxis campanies in US
-colors: colors-b
+colors: colors-a
 date: '2021-12-20'
 client: welcome to my potfolio
 description: Decision tree and regression project
