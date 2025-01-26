@@ -7,7 +7,7 @@ client: Welcome to my second and the most intersting project
 description: 'You''ll find here resum and code  of my project '
 featuredImage:
   type: ImageBlock
-  url: /images/Connecting-Math-and-Machine-Learning.jpg
+  url: /images/thumbnail1626956329224.png
   altText: Machine learning projects
 media:
   type: ImageBlock
