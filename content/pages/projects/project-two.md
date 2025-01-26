@@ -8,6 +8,7 @@ description: Decision tree and regression project
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
+  url: /images/Taxicabs_of_New_York_City.jpg
 media:
   type: ImageBlock
   url: /images/post-2.jpg
