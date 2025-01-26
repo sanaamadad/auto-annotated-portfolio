@@ -311,18 +311,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2019-2020**
 
-          * ba computer sciense at a semi fancy school
+          *   Spécialized master in data science and big data
 
-          **2014**
+          **2014-2016**
 
-          * react certificate somewhere
+          *   Master in algerbaic topology and application on robotics
 
-          **2011**
+          **2010-2014**
 
-          * my highschool
+          *   Bachelor in Applied mathématics and informatics sciences (SMIA)
+
         styles:
           self:
             textAlign: left
