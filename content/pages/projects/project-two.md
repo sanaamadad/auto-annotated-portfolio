@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Cours, Séries des exercices et Correctifs'
+title: Taxi in US
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
