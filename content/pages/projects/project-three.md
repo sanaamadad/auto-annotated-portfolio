@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Detection of solar panel from aerial image and adress identification
+title: ''
 colors: colors-a
 date: '2022-01-22'
 client: Welcome to my second and the most intersting project
