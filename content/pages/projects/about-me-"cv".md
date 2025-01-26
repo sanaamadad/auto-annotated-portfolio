@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: NETFLIX regression project
+title: about me
 date: '2025-01-25'
 client: Awesome client
 description: regression methode
