@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: About  me
-colors: colors-a
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
   backgroundSize: cover
