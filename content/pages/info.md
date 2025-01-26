@@ -65,7 +65,7 @@ sections:
         altText: Logo one
         caption: Public construction BXL-City
       - type: ImageBlock
-        url: /images/ENGIE-Logo-Solid-Black-Full.png
+        url: /images/ENGIE_logotype_2018.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
