@@ -5,7 +5,7 @@ date: '2025-01-25'
 client: Welcome to my first project
 description: regression methode
 addTitleSuffix: true
-colors: colors-a
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
