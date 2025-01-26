@@ -210,4 +210,5 @@ sections:
         textAlign: left
 metaTitle: Sanaa Madad Portfolio
 metaDescription: let's connect
+addTitleSuffix: true
 ---
