@@ -268,26 +268,39 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >+
+          **2020-Current**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Mathématics and Codage Teacher with la ville de Bruxelles & ULB &
+          Bravvo
 
-          * fullstack at this startup
 
-          **2015**
+          **2019-2020**
 
-          * senior front-end at this place
 
-          **2013**
+          *   Data scientist -Internship with Engie Electrabel
 
-          * intern developer at a big company
 
-          **2011**
+          **2016-2019**
 
-          * flipping burgers
+
+          *   Mathématics Teacher with Ministry of education of Morocco
+
+
+          **2014-2016**
+
+
+          *   Statistical analysis with DS Marketing
+
+
+          **2013-2014**
+
+
+          *   Statistical analysis with Haut commissariat du plan of Morocco
+
+
+
         styles:
           self:
             textAlign: left
