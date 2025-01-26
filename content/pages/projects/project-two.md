@@ -4,7 +4,7 @@ title: Taxi in US
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: decision tree and regression project
+description: Decision tree and regression project
 featuredImage:
   type: ImageBlock
   url: /images/math.jpg
