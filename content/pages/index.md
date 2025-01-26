@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Connecting-Math-and-Machine-Learning.jpg
+  url: /images/post-3.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
