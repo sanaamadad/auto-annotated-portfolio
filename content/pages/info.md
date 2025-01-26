@@ -337,7 +337,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        title: 'International education & Conferences '
+        title: ''
         subtitle: ''
         text: |+
           **2019-2020**
