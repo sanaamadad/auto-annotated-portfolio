@@ -1,10 +1,9 @@
 ---
 type: PageLayout
-title: About
+title: About  me
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -61,25 +60,30 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/Ville-Bxl.png
         altText: Logo one
-        caption: Logo one
+        caption: Public construction BXL-City
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/ENGIE_logotype_2018.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/1553684736.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/unnamed.png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/En-tete-6.png
         altText: Logo five
         caption: Logo five
+      - type: ImageBlock
+        url: /images/images.jpeg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
     spacing: 3
     columns: 5
     aspectRatio: auto
@@ -205,21 +209,30 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: AWS Machine learning
       - type: Label
-        label: React
+        label: Machine learning algorithms
       - type: Label
-        label: Microsoft Office
+        label: 'QGIS '
       - type: Label
-        label: Next.js
+        label: Microsoft Azure
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Jupyter Netbook
       - type: Label
-        label: C++
+        label: C/C++
       - type: Label
-        label: Swift
+        label: Python/R
+      - type: Label
+        label: Google Colab
+        url: ''
+      - type: Label
+        label: 'Data mining '
+        url: ''
+      - type: Label
+        label: 'Data management '
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -236,8 +249,9 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    text: |+
+      sanaamaths.ai\@gmail.com
+
   - type: DividerSection
     styles:
       self:
