@@ -69,7 +69,7 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/1553684736.png
+        url: /images/logo-MEN1_0.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
