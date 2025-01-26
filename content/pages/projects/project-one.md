@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Robotics and basic Python projects
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: 'Welcome to my portfolio :)'
 description: 'From zéro to Héro with codage , python and robotic learning'
 featuredImage:
   type: ImageBlock
@@ -12,7 +12,7 @@ featuredImage:
   caption: calibri
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/modeles-mathematiques-intelligence-artificielle.jpg
   altText: Project image
 ---
 
