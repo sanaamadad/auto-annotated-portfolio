@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Machine learning project
+title: Detection of solar panel from aerial image and adress identification
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
