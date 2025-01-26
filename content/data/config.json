@@ -27,10 +27,10 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "LinkedIn ",
+                "label": "LinkedIn ",
+                "url": "https://LinkedIn .com/netlify",
+                "icon": "linkedin"
             },
             {
                 "type": "Social",

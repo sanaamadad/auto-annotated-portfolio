@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/661f89a1ddd730e71bd0aa0d_shutterstock_357107174.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -96,8 +96,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Maths for school, AI projetcs & About me'
-    title: 'Learning '
+    subtitle: Machine learning projects
+    title: 'AI Learning '
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
