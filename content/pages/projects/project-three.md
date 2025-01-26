@@ -4,7 +4,9 @@ title: ''
 colors: colors-a
 date: '2022-01-22'
 client: Welcome to my second and the most intersting project
-description: 'You''ll find here resum and code  of my project '
+description: >-
+  You'll find here resum and code  of my project :Solar panel detection from the
+  aerial image of Brussels & adress identification
 featuredImage:
   type: ImageBlock
   url: /images/thumbnail1626956329224.png
