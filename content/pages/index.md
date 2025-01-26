@@ -208,4 +208,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+metaTitle: Sanaa Madad Portfolio
 ---
