@@ -219,7 +219,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Jupyter Netbook
       - type: Label
         label: C++
       - type: Label
