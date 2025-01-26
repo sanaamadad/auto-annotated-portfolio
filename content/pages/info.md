@@ -63,7 +63,7 @@ sections:
       - type: ImageBlock
         url: /images/Ville-Bxl.png
         altText: Logo one
-        caption: Logo one
+        caption: Public construction BXL-City
       - type: ImageBlock
         url: /images/logo2.svg
         altText: Logo two
