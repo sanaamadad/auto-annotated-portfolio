@@ -209,7 +209,7 @@ sections:
       text:
         textAlign: left
 metaTitle: Sanaa Madad Portfolio
-metaDescription: let's connect
+metaDescription: Let's connect
 addTitleSuffix: true
 socialImage: /images/Connecting-Math-and-Machine-Learning.jpg
 ---
