@@ -250,7 +250,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      <sanaamaths.ai@gmail.com>
+      [sanaamaths.ai@gmail.com@mail.me](mailto:sanaamaths.ai@gmail.com)
   - type: DividerSection
     styles:
       self:
