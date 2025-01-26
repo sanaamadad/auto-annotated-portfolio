@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image3.jpg
+  url: /images/math.jpg
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
