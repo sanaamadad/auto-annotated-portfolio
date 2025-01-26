@@ -10,17 +10,17 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "About me",
+                "label": "About me & CV",
                 "url": "/info"
             },
             {
                 "type": "Link",
-                "label": "mathématics Learning ",
+                "label": " Ai Projects: DS,ML,DL & Robotics",
                 "url": "/projects"
             },
             {
                 "type": "Link",
-                "label": "ML Projects",
+                "label": "maths learning for school",
                 "url": "/blog"
             }
         ],

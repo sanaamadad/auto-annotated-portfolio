@@ -1,19 +1,17 @@
 ---
 type: ProjectLayout
-title: 'Cours, Séries des exercices et Correctifs'
+title: Comparing Taxis campanies in US
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
-description: >-
-  Here you'll find everything you need to succeed you mathmatics studies in the
-  high school .
+client: welcome to my potfolio
+description: Decision tree and regression project
 featuredImage:
   type: ImageBlock
-  url: /images/math.jpg
-  altText: Project thumbnail image
+  altText: ''
+  url: /images/Taxicabs_of_New_York_City.jpg
 media:
   type: ImageBlock
-  url: /images/about.jpg
+  url: /images/post-2.jpg
   altText: Project image
 ---
 

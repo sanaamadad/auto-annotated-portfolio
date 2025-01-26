@@ -1,21 +1,9 @@
 ---
 type: ProjectLayout
-title: About me
+title: netflix project
 date: '2025-01-25'
-client: Awesome client
-description: Studies and Job history
-featuredImage:
-  type: ImageBlock
-  url: /images/661f89a1ddd730e71bd0aa0d_shutterstock_357107174.jpg
-  altText: Project thumbnail image
-  caption: ''
-  elementId: ''
-media:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project image
-  caption: Caption of the image
-  elementId: ''
+client: Welcome to my first project
+description: regression methode
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
@@ -25,4 +13,18 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+media:
+  type: ImageBlock
+  url: >-
+    /images/netflix-decouvrez-les-nouveautes-de-la-semaine-y-compris-la-tant-attendue-suite-dun-immense-succes-750x410.jpg
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+featuredImage:
+  type: ImageBlock
+  url: >-
+    /images/netflix-decouvrez-les-nouveautes-de-la-semaine-y-compris-la-tant-attendue-suite-dun-immense-succes-750x410.jpg
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
