@@ -227,6 +227,9 @@ sections:
       - type: Label
         label: Google Colab
         url: ''
+      - type: Label
+        label: 'Data mining '
+        url: ''
   - type: DividerSection
     styles:
       self:
