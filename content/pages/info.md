@@ -230,6 +230,9 @@ sections:
       - type: Label
         label: 'Data mining '
         url: ''
+      - type: Label
+        label: 'Data management '
+        url: ''
   - type: DividerSection
     styles:
       self:
