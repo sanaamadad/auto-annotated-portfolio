@@ -215,7 +215,7 @@ sections:
       - type: Label
         label: 'QGIS '
       - type: Label
-        label: Next.js
+        label: Microsoft Azure
       - type: Label
         label: Netlify
       - type: Label
