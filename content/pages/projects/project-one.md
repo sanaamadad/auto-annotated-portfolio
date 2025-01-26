@@ -12,7 +12,7 @@ featuredImage:
   caption: calibri
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/modeles-mathematiques-intelligence-artificielle.jpg
   altText: Project image
 ---
 
