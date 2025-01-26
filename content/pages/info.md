@@ -339,25 +339,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: 'International education & Conferences '
-        text: |+
-          **2019-2020**
-
-          *   Spécialized master in data science and big data
-
-          **2014-2016**
-
-          *   Master in algerbaic topology and application on robotics
-
-          **2010-2014**
-
-          *   Bachelor in Applied mathématics and informatics sciences (SMIA)
-
-          **2010**
-
-          *   Baccalaureat 2010 : Mathématics sciences A in Morocco (SMA)
-
-
-
+        text: "**2019**\n\n*   Copenhagen University \U0001F393 Denmark \n\n**2018**\n\n*   MC-GILL University \U0001F393 Canada\n\n**2017**\n\n*   Hokkaido university \U0001F393 Japan\n\n**2016**\n\n*   Duisburg essen University \U0001F393 Germany\n\n\n\n"
         elementId: ''
         styles:
           self:
