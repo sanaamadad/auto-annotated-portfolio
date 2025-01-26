@@ -324,6 +324,12 @@ sections:
 
           *   Bachelor in Applied mathématics and informatics sciences (SMIA)
 
+          **2010**  
+
+          *   Baccalaureat Mathématics sciences A in Morocco
+
+
+
         styles:
           self:
             textAlign: left
